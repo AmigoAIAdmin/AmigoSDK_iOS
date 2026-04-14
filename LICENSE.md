@@ -1,4 +1,4 @@
-Copyright (c) 2026 Amigo AI. All rights reserved.
+Copyright (c) 2026 Amigos AI, Inc. All rights reserved.
 
 The AmigoFaceSwapSDK binary framework is provided under a commercial license.
 Use of this SDK is subject to the Amigo SDK Terms of Service at:
