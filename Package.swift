@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AmigoFaceSwapSDK",
-            url: "https://downloads.amigoai.io/swiftpm/AmigoSDK_iOS/v1.0.1/AmigoFaceSwapSDK.xcframework.zip",
-            checksum: "05cd9f74b8a8814af44ab5417ff6e800edbcc449352a0f4c6be1f9ed749c1236"
+            url: "https://downloads.amigoai.io/swiftpm/AmigoSDK_iOS/v1.0.2/AmigoFaceSwapSDK.xcframework.zip",
+            checksum: "13cc7fe8bb00221298dc8ae478aa64a7a138d327f655731709145fb246a9261b"
         )
     ]
 )
